@@ -1,0 +1,8 @@
+General Data Protection Regulation (GDPR) requires the following:
+- Obtain user consent before collecting personal data.
+- Provide clear privacy notices.
+- Allow users to access and delete their data.
+- Notify users within 72 hours of a data breach.
+- Appoint a Data Protection Officer (DPO) for large-scale processing.
+
+Special rules apply to children’s data and international data transfers.
